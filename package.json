@@ -1,0 +1,24 @@
+{
+  "name": "responsivevoice",
+  "version": "1.0.0",
+  "description": "Npm wrapper for responsivevoice.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jfkz/responsivevoice.git"
+  },
+  "keywords": [
+    "text-to-speech",
+    "tts",
+    "responsivevoice"
+  ],
+  "author": "jfkz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfkz/responsivevoice/issues"
+  },
+  "homepage": "https://github.com/jfkz/responsivevoice#readme",
+}
